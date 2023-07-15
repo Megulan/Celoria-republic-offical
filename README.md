@@ -18,6 +18,9 @@ location in its own solar system: cold zone
 importance level: 6/10
 
 
+action advice in a hypothetical situation
+
+
 
 
 
