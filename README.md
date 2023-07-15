@@ -1,4 +1,9 @@
 # Celoria-republic-offical
-this is current place for our team where we upload our games/projects and you'll also will get information of it here
-errer codes
+error codes
+code 1: startup problem
+code 2: connection problem
+code 3: internal network problem
+code 4: corrupt file
+code 5: insufficient electricity (emergency electricity)
+
 
